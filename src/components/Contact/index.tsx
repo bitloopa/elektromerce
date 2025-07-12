@@ -80,7 +80,8 @@ const Contact = () => {
                         fill="#3C50E0"
                       />
                     </svg>
-                    Address: 1 Commissioner Oke close, Ughelli, Delta state. Nigeria.
+                    Address: Shop G4, ground floor, Moye plaza,
+beside First Bank, Mpape, Abuja, FCT.
                   </p>
                 </div>
               </div>

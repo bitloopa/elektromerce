@@ -32,7 +32,8 @@ const Footer = () => {
                     />
                   </svg>
                 </span>
-                1 Commissioner Oke close, Ughelli, Delta state. Nigeria.
+                Shop G4, ground floor, Moye plaza,
+beside First Bank, Mpape, Abuja, FCT.
               </li>
 
               <li>
@@ -81,7 +82,7 @@ const Footer = () => {
                       fill="#3C50E0"
                     />
                   </svg>
-                  greatedafeoke@gmail.com
+                  affordable4PC@outlook.com
                 </a>
               </li>
             </ul>
